@@ -1,6 +1,7 @@
 This project analyzes student performance data to understand how different factors like gender, race, parental education level, lunch type, and test preparation affect student scores in math, reading, and writing.
 
 What I Did
+
 1.Cleaned and prepared the data for analysis
 
 2. Performed Exploratory Data Analysis (EDA) to explore trends and patterns
@@ -26,4 +27,5 @@ Python
 Pandas
 
 Matplotlib & Seaborn (for visualization)
+
 Scikit-learn (for model training)
